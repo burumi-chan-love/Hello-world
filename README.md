@@ -3,3 +3,4 @@ tokida
 amanoese
 wada
 ‚Ç‚ç‚¦‚à‚ñ
+takatakataka

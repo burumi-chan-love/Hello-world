@@ -2,6 +2,7 @@
 tokida
 amanoese
 wada
-‚Ç‚ç‚¦‚à‚ñ
-
+saeki
+takatakataka
 ひらがなはUTF8で
+

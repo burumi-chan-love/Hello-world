@@ -2,5 +2,7 @@
 tokida
 amanoese
 wada
-‚Ç‚ç‚¦‚à‚ñ
+saeki
 takatakataka
+ã²ã‚‰ãŒãªã¯UTF8ã§
+

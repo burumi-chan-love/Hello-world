@@ -9,7 +9,5 @@ saeki
 takatakataka
 ひらがなはUTF8で
 
-+++足立+++
-
-add
-
+足立
+☆☆add☆☆☆
